@@ -1,5 +1,6 @@
 # catswords-cardano
-캐츠워즈 - 카르다노 연동 확장 (en: Catswords and Cardano integration extension)
+캐츠워즈 커뮤니티: 카르다노 확장
+Catswords Community: Cardano extension
 
 ## todo
 - upload catswords hashes to cardano smart contract
@@ -7,4 +8,5 @@
 
 ## see also
 - https://exts.kr
+- https://exts.kr/wiki/catswords-cardano
 - https://forum.cardano.org/
